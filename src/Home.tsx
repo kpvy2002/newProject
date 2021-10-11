@@ -223,7 +223,7 @@ const Home = (props: HomeProps) => {
       props.connection
     );
    
-     let count = 7974 - itemsRemaining;   
+     let count = 5 - itemsRemaining;   
 
     setNftCount(count)
     setIsSoldOut(itemsRemaining === 0);
@@ -284,7 +284,7 @@ const Home = (props: HomeProps) => {
             </div>
             <div className="mint-desc-container">
               <span className="mint-desc-heading">NFT Price</span>
-              <span className="mint-desc-value">1.00 SOL</span>
+              <span className="mint-desc-value">0.1 SOL</span>
             </div>
             <div className="mint-desc-container">
               <span className="mint-desc-heading">NFTs Minted</span>
