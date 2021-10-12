@@ -284,7 +284,7 @@ const Home = (props: HomeProps) => {
             </div>
             <div className="mint-desc-container">
               <span className="mint-desc-heading">NFT Price</span>
-              <span className="mint-desc-value">0.1 SOL</span>
+              <span className="mint-desc-value">0.10 SOL</span>
             </div>
             <div className="mint-desc-container">
               <span className="mint-desc-heading">NFTs Minted</span>
